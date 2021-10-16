@@ -21,7 +21,7 @@ En alguna caso podemos encontrarnos con un error al final de la instalación de 
 
 Error al instalar Apache.
 
-![02-Error](capturas/02-Error)
+![02-Error](capturas/02-Error.png)
 
 
 Para poder solucio0nar este problema debemos ir al fichero “//etc/apache2/ports.conf” y cambiar la linea siguiente por el puerto que queramos usar.
